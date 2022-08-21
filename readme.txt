@@ -15,5 +15,3 @@
 4. Please do not stop when the code running in the halfway, it may cause some error to the 	spreadsheet file and you might need to delete them and rerun the code and segmentation 	for particular dataset you stopped at.
 
 5. You may find out the last img directory at the console(there is some description message 	prompt for each image processed) to see which image you stopped at previously, removed 	all the images before it to start the segmentation from that image to speed up the 	process.
-
-6. Finally, Dr. Chia thank you for giving guidance and support.
